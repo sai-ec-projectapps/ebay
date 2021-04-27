@@ -1,3 +1,4 @@
-i am in  master branch 
+i am in maste branch
+i am from dev branch
 hello updated
 i am trying so many times
